@@ -80,3 +80,9 @@
     ```
     go run ./cmd/run
     ```
+
+    или
+
+    ```
+    make run
+    ```
